@@ -12,5 +12,6 @@ class one
 			}
 			System.out.print("\n");
 		}
+		//This will output  a squre of stars
 	}
 }

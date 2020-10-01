@@ -25,3 +25,12 @@ class six
 		}
 	}
 }
+
+
+//This will give output like below
+/*
+1=1
+1+2=3
+1+2+3=6
+...
+*/

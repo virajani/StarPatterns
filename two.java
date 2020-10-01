@@ -18,6 +18,7 @@ class two
 				System.out.print("*");
 			}
 			System.out.print("\n");
+			//squared trangle
 		}
 	}
 }

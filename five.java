@@ -9,7 +9,7 @@ class five
 			{
 				System.out.print(j+""+j);
 			}
-			System.out.print("\n");
+			System.out.print("\n");//prints new line
 		}
 	}
 }
